@@ -3,7 +3,7 @@ import {Route,Link,Routes} from 'react-router-dom';
 import {Layout, Typography, Space} from 'antd'
 
 import {Navbar,Exchanges,Homepage,CryptoDetails,Cryptocurrencies,News} from './components'
-import './App.css'
+import './App.less'
 
 function App() {
   return (
